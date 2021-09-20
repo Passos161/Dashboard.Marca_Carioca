@@ -15,4 +15,4 @@ Link Publico Power BI = https://app.powerbi.com/view?r=eyJrIjoiOThiYmQzZDctMmYzN
 - Power BI
 
   O Banco de Dados SQL Server, foi alimentado pelo arquivo .xmls onde foi realizado a limpeza e tratamento dos dados mais necessários para utilizarmos em nosso Power BI,
-assim gerando o Dashboard com o cenário de apresentação adequado para tomada de decisão em melhorias na vendas e metas.
+assim gerando o Dashboard com o cenário de apresentação adequado para tomada de decisão em melhoria nas vendas e metas.
